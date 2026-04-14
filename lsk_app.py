@@ -36,4 +36,4 @@ if img_file:
         col1.metric("S (Stability)", f"{s_score}점")
         col2.metric("P (Propulsion)", f"{p_angle}도")
     else:
-        st.error("전신이 잘 나오게 다시 촬영해주세요.")1
+        st.error("전신이 잘 나오게 다시 촬영해주세요.")
